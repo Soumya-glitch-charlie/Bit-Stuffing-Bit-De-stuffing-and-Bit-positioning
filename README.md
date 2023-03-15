@@ -7,7 +7,10 @@ Overhead bits are non-data bits that are necessary for transmission (usually as 
 
 
 ||The following image is the concept of bit stuffing||
+
 ![Bit_Byte_Stuffing_2](https://user-images.githubusercontent.com/127016329/225461630-9e29da49-48d5-4806-8f68-8afc0403389c.jpg)
+
+
 
 
 Applications of Bit Stuffing –
