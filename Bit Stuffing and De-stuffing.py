@@ -35,4 +35,4 @@ while i < len(main_data):
     i += 1
 
 print(f'The de-stuffed sequence: {main_data2}')
-print("SOUMYADEEP DAS and RITURAJ PAUL")
+print("SOUMYADEEP DAS")
